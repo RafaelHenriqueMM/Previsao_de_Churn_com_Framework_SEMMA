@@ -21,7 +21,7 @@ Desenvolver um pipeline de Machine Learning capaz de:
 
 Dataset utilizado:
 
-https://www.kaggle.com/datasets/teocalvo/analytical-base-table-churn/data?utm_source=chatgpt.com
+https://www.kaggle.com/datasets/teocalvo/analytical-base-table-churn
 
 ---
 
